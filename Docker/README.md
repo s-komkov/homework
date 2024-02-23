@@ -32,10 +32,10 @@ Hey, Netology
 
 ## Задача 2
 ### Ответ
-![Скрин 1](/images/task2_1.png)
-![Скрин 2](/images/task2_2.png)
-![Скрин 3](/images/task2_3.png)
-![Скрин 4](/images/task2_4.png)
+![Скрин 1](Docker/images/task2_1.png)
+![Скрин 2](Docker/images/task2_2.png)
+![Скрин 3](Docker/images/task2_3.png)
+![Скрин 4](Docker/images/task2_4.png)
 
 
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
