@@ -31,6 +31,13 @@ Hey, Netology
 - Предоставьте ответ в виде ссылки на https://hub.docker.com/<username_repo>/custom-nginx/general .
 
 ## Задача 2
+### Ответ
+![Скрин 1](/images/task2_1.png)
+![Скрин 2](/images/task2_2.png)
+![Скрин 3](/images/task2_3.png)
+![Скрин 4](/images/task2_4.png)
+
+
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
 - имя контейнера "ФИО-custom-nginx-t2"
 - контейнер работает в фоне
